@@ -1,0 +1,29 @@
+{
+    "skills": {
+        "python": [
+            "Data Analyst",
+            "Machine Learning Engineer",
+            "AI Research Assistant"
+        ],
+        "javascript": [
+            "Frontend Developer",
+            "Full Stack Developer",
+            "React Engineer"
+        ],
+        "design": [
+            "UI/UX Designer",
+            "Product Designer",
+            "Visual Designer"
+        ],
+        "communication": [
+            "HR Manager",
+            "Public Relations Officer",
+            "Corporate Trainer"
+        ],
+        "marketing": [
+            "Digital Marketer",
+            "Growth Strategist",
+            "Content Manager"
+        ]
+    }
+}
