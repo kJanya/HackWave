@@ -26,7 +26,6 @@ npm run build
 ## 🌐 Deployment
 1. Push your project to GitHub.
 2. Connect your repository to **Vercel** or **Netlify**.
-3. Deploy — no backend required.
 
 ## 📁 Project Structure
 - `/public/mockdata.json` → Mock AI recommendations
