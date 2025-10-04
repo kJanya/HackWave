@@ -1,0 +1,9 @@
+{
+  "buildCommand": "CI= npm run build",
+  "installCommand": "npm install --force",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "NODE_VERSION": "18"
+  }
+}
